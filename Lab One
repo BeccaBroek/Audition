@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>NAME OF ALBUM </title>
+  </head>
+  
+  <body>
+  <h1>Title of Album</h1>
+  <h2>Name of Band</h2>
+  <h3>Release Date</h3>
+  <p>Description of band </p>
+  <h2>Name of Band Members>
+  <p>Name one
+    <br>Name two
+    <br>Name three
+  </p>
+  </body>
+</html>

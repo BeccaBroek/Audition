@@ -1,0 +1,24 @@
+<!--Bold and Strong --!>
+<b>bold</b>
+<strong>strong></strong>
+
+<!--Italic and Emphasis--!>
+<i>italic</i>
+<em>emphasis</em>
+
+<!--Sub and Sup scripts--!>
+<sub>subscript</sub>
+<sup>superscript</sup>
+
+<!--Inserted and Deleted--!>
+<ins>inserted</ins>
+<del>deleted</del>
+
+<!--Marked--!>
+<mark>marked</mark>
+
+<!--Blockquote--!>
+<blockquote>blockquote</blockquote>
+
+<!--Code--!>
+<code>code</code>
